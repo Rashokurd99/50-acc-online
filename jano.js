@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const myid = [''] //////////////// prefix wara
+const myid = ['1'] //////////////// prefix wara
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
