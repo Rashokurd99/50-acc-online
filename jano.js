@@ -1852,9 +1852,9 @@ jano50.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
+jano.login("OTA0MTMyMDM0MTgyNjcyMzk1.YX3HHA.7-mLxS8uMpIduHF0yEdYkFDrOLY");
+jano2.login("OTA0MTMzOTgzMzUxMjMwNDk1.YX3HXA.qVSjLwT61EFMDRvPF9J3RnPENDE");
+jano3.login("OTA0MTM1MTk1NTcyMTgzMDcw.YX3IHQ.OJ_mkCmCIUo3fCjdgOF9cXY8h9w");
 jano4.login("");
 jano5.login("");
 jano6.login("");
